@@ -1,0 +1,12 @@
+{
+  "configurations": [
+    {
+      "name": "Linux",
+      "compilerPath": "/usr/bin/g++",
+      "cppStandard": "c++23",
+      "cStandard": "c23",
+      "intelliSenseMode": "gcc-x64"
+    }
+  ],
+  "version": 4
+}
